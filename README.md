@@ -28,4 +28,10 @@ Replaces all the current representations of the target resource with the uploade
 
 Removes all the current representations of the target resource given by URI.
 
+# Check this link in Postman
+
+https://crud-api-wm7r.onrender.com/api/task
+
+You can do the CRUD in Postman
+
 
